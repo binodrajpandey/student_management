@@ -5,7 +5,6 @@
  */
 package com.itntraining.studentmanagement;
 
-import com.example.demo.entities.User;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
